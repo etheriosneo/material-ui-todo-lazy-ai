@@ -1,0 +1,9 @@
+Flask
+Flask-SQLAlchemy
+flask
+flask-cors
+flask_cors
+flask_sqlalchemy
+jinja2
+sqlalchemy
+werkzeug
