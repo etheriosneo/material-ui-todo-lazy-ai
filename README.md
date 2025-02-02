@@ -3,7 +3,7 @@
 </p>
 <p align="center"><h1 align="center">MATERIAL-UI-TODO-LAZY-AI</h1></p>
 <p align="center">
-	<em><code>❯ REPLACE-ME</code></em>
+	<em><code>❯</code></em>
 </p>
 <p align="center">
 	<img src="https://img.shields.io/github/license/etheriosneo/material-ui-todo-lazy-ai?style=default&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
@@ -38,15 +38,10 @@
 
 ##  Overview
 
-<code>❯ REPLACE-ME</code>
+<code>❯ A simple TODO App</code>
 
 ---
 
-##  Features
-
-<code>❯ REPLACE-ME</code>
-
----
 
 ##  Project Structure
 
@@ -71,15 +66,15 @@
 			<table>
 			<tr>
 				<td><b><a href='https://github.com/etheriosneo/material-ui-todo-lazy-ai/blob/master/main.py'>main.py</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
+				<td><code>❯ </code></td>
 			</tr>
 			<tr>
 				<td><b><a href='https://github.com/etheriosneo/material-ui-todo-lazy-ai/blob/master/requirements.txt'>requirements.txt</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
+				<td><code>❯ </code></td>
 			</tr>
 			<tr>
 				<td><b><a href='https://github.com/etheriosneo/material-ui-todo-lazy-ai/blob/master/models.py'>models.py</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
+				<td><code>❯ </code></td>
 			</tr>
 			</table>
 		</blockquote>
@@ -90,7 +85,7 @@
 			<table>
 			<tr>
 				<td><b><a href='https://github.com/etheriosneo/material-ui-todo-lazy-ai/blob/master/templates/home.html'>home.html</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
+				<td><code>❯ </code></td>
 			</tr>
 			</table>
 		</blockquote>
